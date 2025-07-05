@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhankit6748&label=Profile%20views&color=0e75b6&style=flat" alt="singhankit6748" /> </p>
 
-- 🌱 I’m currently learning **javascript**
-
 - 📫 How to reach me **singhankit6748@gmail.com**
 
 

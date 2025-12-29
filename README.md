@@ -1,5 +1,5 @@
 # 🙋‍♂️ Hi , I'm Ankit Singh
-**A passionate Frontend developer || Data Analyst 
+**A passionate AI Engineer 
 
 - 🔭 **I’m currently working on: Improving my Problem Solving Skills
 - 🌱 **I’m currently learning: Data Structures and Algorithms.
